@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453834612746",
+    "project_id": "dukkan-flutter",
+    "storage_bucket": "dukkan-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453834612746:android:e2f9c5a0c6e90f49b4bff3",
+        "android_client_info": {
+          "package_name": "com.sisonke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453834612746-frcdsvqfu9tcjgrkridvte3pk7fvfmtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sisonke",
+            "certificate_hash": "316c5b5049db9738432bf72a5e3a52ddd907a8f1"
+          }
+        },
+        {
+          "client_id": "453834612746-jbf6vm26qj86a306gafbebb8bhfefe0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6QlLtWxOfmWLZLDKX6KZ_ShbdVDZsS6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453834612746-jbf6vm26qj86a306gafbebb8bhfefe0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

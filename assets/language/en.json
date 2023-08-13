@@ -1,0 +1,33 @@
+{
+
+  "input_valid_phone_number": "Input valid phone number",
+  "input_valid_otp": "Input valid Otp",
+  "SAFETY_ALERTS" : "Safety Alerts",
+  "SOS": "SOS",
+  "CHECKUP_LOG": "Checkup Log",
+  "LOCATION_LOG": "Location Log",
+  "MY_PROFILE": "My Profile",
+  "SETTINGS": "Settings",
+  "SAVED_PLACES": "Saved Places",
+  "MEMBERSHIP": "Membership",
+  "MANAGE_MEMBERSHIPS":"Manage Memberships",
+  "LOG_OUT":  "Logout",
+  "LOGIN_WELCOME": "Hi, Welcome Back! ",
+  "LOGIN_TAGLINE": "Hello again, you’ve been missed!",
+  "CONTACT": "Contact",
+  "PASSWORD": "Password",
+  "REMEMBER_ME": "Remember Me",
+  "FORGET_PASSWORD": "Forget Password",
+  "LOGIN": "Login",
+  "DONT_ACCOUNT": "Don't have Account ? ",
+  "ALREADY_ACCOUNT": "Already have an account ? ",
+  "SIGNUP": "Signup",
+  "USERNAME":"Username",
+  "REGISTER_WELCOME": "Create an account",
+  "REGISTER_TAGLINE": "Connect with your friends today!",
+  "PROFILE": "Profile",
+  "PRIVACY": "Privacy",
+  "EDIT_PROFILE": "Edit Profile"
+
+
+}
